@@ -1,1 +1,1 @@
-# ProgEcon-exercises
+[Visit course web page](https://sites.google.com/view/numeconcph-progecon/home)
